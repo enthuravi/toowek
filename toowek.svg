@@ -1,0 +1,13 @@
+<svg width="369" height='81' version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d='M5.5 0.5 H100 A5 5 0 0 1 100 10.5 H55 V75 a 5 5 0 0 1 -10 0.5 V10 H5 A5 5 0 0 1 5.5 0.5' style="fill:white; stroke:black;"/>
+<ellipse cx='100' cy='50' rx="22" ry='30' style="fill:white; stroke:black;"/>
+<ellipse cx='100' cy='50' rx="15" ry='12' style="fill:black; stroke:black;"/>
+<ellipse cx='150' cy='50' rx="22" ry='30' style="fill:white; stroke:black;"/>
+<ellipse cx='150' cy='50' rx="15" ry='12' style="fill:black; stroke:black;"/>
+<text x='180' y='78' fill='white' stroke='black' font-size='100' font-family='calibri'>W</text>
+<!--path d="M180 5 L200 73 L215 50 c5 -5 10 -5 15 0 L245 73 L265 5 A 5 5 0 0 1 275 5 L255 73 c -5 9 -15 9 -20 0 L222.5 55 L210 73 c -5 9 -15 9 -20 0 L170 5 A 5 5 0 0 1 180 5" style="fill:white; stroke:black;"/-->
+<!--ellipse cx='300' cy='50' rx="22" ry='30' style="fill:none; stroke:red;"/><ellipse cx='300' cy='50' rx="12" ry='20' style="fill:white; stroke:red;"/-->
+<path d="M288 50 H322 A22 30 0 1 0 319 65 L310 61 A12 20 0 0 1 288 50" style="fill:white; stroke:black;"/>
+<path d="M289.4 40 H310.6 A12 20 0 0 0 289.4 40" style="fill:currentColor; stroke:black;"/>
+<path d='M330 45 a5 5 0 0 1 10 0 V55 L360 35 A5 5 45 0 1 367 42 L 354,55 L367,68 A5 5 45 0 1 360,75 L347 62 L340 69 V75 A5 5 0 0 1 330 75 z' style="fill:white; stroke:black;"/>
+</svg>                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
